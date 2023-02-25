@@ -1,0 +1,6 @@
+num1=int(input("enter your number1:"))
+num2=int(input("enter your number2:"))
+num3=int(input("enter your number3:"))
+
+answer=(num1+num2)*num3
+print("The answer is",answer)
